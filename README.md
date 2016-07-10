@@ -1,2 +1,2 @@
 # misc
-Random but useful scripts that I don't where else to put.
+Random but useful scripts that I don't know where else to put.
